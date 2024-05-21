@@ -1,1 +1,3 @@
 # PNRD-ESP32-Library
+
+This work has the purpose of presenting the expansion of Arduino® Library for PNRD (elementary Petri Net inside RFID distributed Database) and the iPNRD (inverted PNRD) to ESP32® platform. In this approach, the Petri Net model based on a matrix equation is defined as the data structure of RFID components. The result is a highly adaptive, distributed, scalable, and applicable control system that allows an automatic exception identification system ready for IoT. Therefore, this work describes the design, implementation, and validation of a library for ESP32® platform which simplifies the development of new applications that use the PNRD/iPNRD approach.
